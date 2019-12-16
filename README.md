@@ -1,12 +1,5 @@
-<hr>
-<h5>Ninjutsu USB, More info => https://www.ethic.ninja/</h5>
-<hr>
 
-<b>DISCLAIMER</b>: Ninjutsu USB is designed to be used in testing and discovering flaws in ones own network with the aim of fixing the flaws detected, <b>DO NOT</b> use the program on networks or devices for which you dont have permission, we are not responsible for whatever damage you cause by using this software or hardware.
-<hr/> 
-
-
-NinjaKeyboard Function List
+Keyboard Function List
 ----
 <b>pressAndRelease</b> = Press a key or combination of keyboard and release. usage : pressAndRelease(key_ALT, key_TAB)</br>
 <b>press</b> = Press a key or combination of keyboard without release. usage : press(key_ALT, key_TAB)</br>
@@ -42,5 +35,3 @@ void loop() {
 }
 
 
-```
-[More Payload](https://github.com/EthicNinja/Ninjutsu-USB/wiki/Payloads)
